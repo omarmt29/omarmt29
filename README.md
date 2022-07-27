@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Omar Argeni Méndez Torres</h1>
 <h3 align="center">A passionate frontend developer from Dominican republic</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omarmt29&label=Profile%20views&color=0e75b6&style=flat" alt="omarmt29" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omarmt29" alt="omarmt29" /></a> </p>
-
 - 🌱 I’m currently learning **Php, laravel, MVC**
 
 - 👨‍💻 All of my projects are available at [https://github.com/omarmt29?tab=repositories](https://github.com/omarmt29?tab=repositories)
