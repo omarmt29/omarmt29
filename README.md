@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Omar Argeni Méndez Torres</h1>
 <h3 align="center">A passionate frontend developer from Dominican republic</h3>
 
+
+
 - 🌱 I’m currently learning **Php, laravel, MVC**
 
 - 👨‍💻 All of my projects are available at [https://github.com/omarmt29?tab=repositories](https://github.com/omarmt29?tab=repositories)
@@ -11,8 +13,10 @@
 
 - ⚡ Fun fact **I like to draw, I like the piano and from time to time I practice calisthenics**
 
+
+
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://instagram.com/omarmt29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omarmt29" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/omar mendez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="omar mendez" height="30" width="40" /></a>
 <a href="https://discord.gg/omar mendez#4992" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="omar mendez#4992" height="30" width="40" /></a>
