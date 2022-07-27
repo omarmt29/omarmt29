@@ -16,7 +16,7 @@
 - ⚡ Fun fact **I like to draw, I like the piano and from time to time I practice calisthenics**
 
 </br>
-</br>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,7 +25,7 @@
 <a href="https://discord.gg/omar mendez#4992" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="omar mendez#4992" height="30" width="40" /></a>
 </p>
 
-</br>
+
 </br>
 
 <h3 align="left">Languages and Tools:</h3>
