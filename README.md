@@ -20,9 +20,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/omarmt29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omarmt29" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/omar mendez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="omar mendez" height="30" width="40" /></a>
-<a href="https://discord.gg/omar mendez#4992" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="omar mendez#4992" height="30" width="40" /></a>
+<a href="https://instagram.com/omarmt29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omarmt29" height="50" width="60" /></a>
+<a href="https://www.youtube.com/c/omar mendez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="omar mendez" height="50" width="60" /></a>
+<a href="https://discord.gg/omar mendez#4992" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="omar mendez#4992" height="50" width="60" /></a>
 </p>
 
 
