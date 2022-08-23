@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **omarmendezt29@gmail.com**
 
+- 🔎 Linkedin https://www.linkedin.com/in/omar-mendez-142880202/
+
 - ⚡ Fun fact **I like to draw, I like the piano and from time to time I practice calisthenics**
 
 </br>
