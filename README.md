@@ -5,13 +5,13 @@
 </br>
 
 
-- 🌱 I’m currently learning **Php, laravel, MVC**
+- 🌱 I’m currently learning **Full stack developer**
 
-- 👨‍💻 All of my projects are available at [https://github.com/omarmt29?tab=repositories](https://github.com/omarmt29?tab=repositories)
+- 👨‍💻 All of my projects are available here
 
-- 💬 Ask me about **Reactjs, javascript, html, etc..**
+- 💬 Ask me about **Laravel, reactjs, front-end, etc..**
 
-- 📫 How to reach me **omarmendezt29@gmail.com**
+- 📫 How to reach me **omarmt0992@gmail.com**
 
 - 🔎 Linkedin https://www.linkedin.com/in/omar-mendez-142880202/
 
