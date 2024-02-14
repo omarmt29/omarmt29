@@ -5,7 +5,7 @@
 </br>
 
 
-- 🌱 I’m currently learning **Full stack developer**
+- 🌱 I am always seeking challenges that allow me to grow professionally and contribute significantly to innovative projects. 
 
 - 👨‍💻 All of my projects are available here
 
