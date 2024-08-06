@@ -38,5 +38,5 @@
 
 - ✅ Figma / Photoshop / AdobeXD
 
-
+- ✅ Wordpress / CustomTemplates
 
