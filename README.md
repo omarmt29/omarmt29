@@ -21,16 +21,10 @@
 
 </br>
 
-
-
-- 🌱 I am always seeking challenges that allow me to grow professionally and contribute significantly to innovative projects. 
-
-- 👨‍💻 All of my projects are available here
-
-- 💬 Ask me about **Laravel, reactjs, front-end, etc..**
+<h3 align="left">Contact me:</h3>
 
 - 📫 How to reach me **omarmt0992@gmail.com**
-
+- 📞 +1 809 675 0424
 - 🔎 Linkedin https://www.linkedin.com/in/omar-mendez-142880202/
 
 
