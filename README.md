@@ -5,6 +5,24 @@
 </br>
 
 
+<h3 align="left">Languages and Tools:</h3>
+
+- ✅ DigitalOcean / Nginx / Cloudflare
+
+- ✅ Laravel / php / jquery / mysql
+
+- ✅ NodeJs / Reactjs / javascript / Supabase
+
+- ✅ Wordpress / Php / CustomTemplates
+
+- ✅ Figma / Photoshop / AdobeXD
+
+
+
+</br>
+
+
+
 - 🌱 I am always seeking challenges that allow me to grow professionally and contribute significantly to innovative projects. 
 
 - 👨‍💻 All of my projects are available here
@@ -30,13 +48,9 @@
 
 </br>
 
-<h3 align="left">Languages and Tools:</h3>
 
-- ✅ Laravel / php / jquery / mysql
 
-- ✅ Reactjs / javascript / Supabase
 
-- ✅ Figma / Photoshop / AdobeXD
 
-- ✅ Wordpress / CustomTemplates
+
 
